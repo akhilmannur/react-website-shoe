@@ -30,6 +30,7 @@ const AdminAddProduct = () => {
     alert("item added successfully");
     navigate("/adminproduct");
   };
+  
   return (
     <>
       <div>
